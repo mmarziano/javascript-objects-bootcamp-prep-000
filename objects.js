@@ -1,3 +1,5 @@
 var playlist = {
-  artistName = "song";
+  artistName = "Happy Birthday";
 }
+
+return playlist.artistName
